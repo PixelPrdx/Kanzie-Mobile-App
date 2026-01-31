@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\Kanzie\\server\\Kanzie.Api\\Kanzie.Api.csproj": {}
+    "E:\\Projects\\.Net\\Kanzie-Mobile-App\\server\\Kanzie.Api\\Kanzie.Api.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\Kanzie\\server\\Kanzie.Api\\Kanzie.Api.csproj": {
+    "E:\\Projects\\.Net\\Kanzie-Mobile-App\\server\\Kanzie.Api\\Kanzie.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\Kanzie\\server\\Kanzie.Api\\Kanzie.Api.csproj",
+        "projectUniqueName": "E:\\Projects\\.Net\\Kanzie-Mobile-App\\server\\Kanzie.Api\\Kanzie.Api.csproj",
         "projectName": "Kanzie.Api",
-        "projectPath": "E:\\Projects\\Kanzie\\server\\Kanzie.Api\\Kanzie.Api.csproj",
+        "projectPath": "E:\\Projects\\.Net\\Kanzie-Mobile-App\\server\\Kanzie.Api\\Kanzie.Api.csproj",
         "packagesPath": "C:\\Users\\msi-nb\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\Kanzie\\server\\Kanzie.Api\\obj\\",
+        "outputPath": "E:\\Projects\\.Net\\Kanzie-Mobile-App\\server\\Kanzie.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

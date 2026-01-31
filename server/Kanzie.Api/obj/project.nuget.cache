@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dsf5/nd7ztE=",
+  "dgSpecHash": "YO0bEKHXASA=",
   "success": true,
-  "projectFilePath": "E:\\Projects\\Kanzie\\server\\Kanzie.Api\\Kanzie.Api.csproj",
+  "projectFilePath": "E:\\Projects\\.Net\\Kanzie-Mobile-App\\server\\Kanzie.Api\\Kanzie.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\msi-nb\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\msi-nb\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.11\\microsoft.aspnetcore.openapi.8.0.11.nupkg.sha512",

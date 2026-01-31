@@ -66,6 +66,8 @@ namespace Kanzie.Api.Models
         public double Latitude { get; set; }
         public double Longitude { get; set; }
         public string? ImageUrl { get; set; }
+        public string? GooglePlaceId { get; set; }
+
         
         public int CategoryId { get; set; }
         public Category? Category { get; set; }

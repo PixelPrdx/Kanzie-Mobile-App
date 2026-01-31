@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kanzie.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05a7eba0ed63265b6a8239bff56bb1045763bf86")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kanzie.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kanzie.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
