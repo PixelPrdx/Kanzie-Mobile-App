@@ -1,0 +1,8 @@
+E:\Projects\Kanzie\server\Kanzie.Api\obj\Debug\net9.0\Kanzie.Api.csproj.AssemblyReference.cache
+E:\Projects\Kanzie\server\Kanzie.Api\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\Projects\Kanzie\server\Kanzie.Api\obj\Debug\net9.0\Kanzie.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Kanzie\server\Kanzie.Api\obj\Debug\net9.0\Kanzie.Api.AssemblyInfoInputs.cache
+E:\Projects\Kanzie\server\Kanzie.Api\obj\Debug\net9.0\Kanzie.Api.AssemblyInfo.cs
+E:\Projects\Kanzie\server\Kanzie.Api\obj\Debug\net9.0\Kanzie.Api.csproj.CoreCompileInputs.cache
+E:\Projects\Kanzie\server\Kanzie.Api\obj\Debug\net9.0\Kanzie.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\Kanzie\server\Kanzie.Api\obj\Debug\net9.0\Kanzie.Api.MvcApplicationPartsAssemblyInfo.cache
